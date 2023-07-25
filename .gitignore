@@ -1,5 +1,7 @@
 access.log
 
+INFO.md
+
 node_modules/
 
 /coverage/
@@ -8,4 +10,3 @@ node_modules/
 
 doc/**/*.txt
 
-/INFO.md
